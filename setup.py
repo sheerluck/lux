@@ -40,5 +40,5 @@ setup(
     packages=find_packages(),  # Required
     python_requires=">=3.5",
     install_requires=install_requires,
-    extras_require={"test": ["pytest"]},
+    extras_require={},
 )
